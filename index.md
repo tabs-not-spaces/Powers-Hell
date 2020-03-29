@@ -1,109 +1,217 @@
----
-layout: page
-title: Bootstrap 4 Github Pages
----
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+# BEN READER
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+Solutions Engineer - Process and Solutions Automation
 
-## Setup Guide
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 13%;" aria-valuenow="13" aria-valuemin="0" aria-valuemax="100"></div>
+</div><p> </p>
 
-### Fork this repository
+| | |
+|:--- | :--- |
+| <i class="fa fa-envelope"></i> Email: | <font class="text-success">ben.reader(a)gmail.com</font> |
+| <i class="fa fa-github"></i> GitHub: | [https://github.com/tabs-not-spaces](https://github.com/tabs-not-spaces) |
+| <i class="fa fa-twitter"></i> Twitter: | [https://twitter.com/powers_hell](https://twitter.com/powers_hell) |
+| <i class="fa fa-linkedin-square"></i> LinkedIn: | [https://linkedin.com/in/ben-reader](https://www.linkedin.com/in/ben-reader-97223b7b) |
 
-[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Fork` button on the top right of the page.
+<p></p>
 
-### Rename your forked repository
+## Summary
 
-Here we have two possibilities:
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 26%;" aria-valuenow="26" aria-valuemin="0" aria-valuemax="100"></div>
+</div><p> </p>
 
-* **You want a user or organization website**
+I’m an IT professional with over 10 years of experience providing solutions delivery, support and automation across a wide range of industries. 
 
-  In this case your website's URL will be `http://<your username>.github.io` where `<your username>` is your Github user name.
+Process automation is one of my strongest passions. I've successfully migrated clients from On-Prem IT management and infrastructure into modern, entirely cloud-based systems, leveraging the newest solutions from Microsoft in the end use compute space, including but not limited to Microsoft Intune, Microsoft Defender ATP, Windows 10, and all emerging platforms. 
 
-  Go in the `Settings` page of your repository and rename it to `<your username>.github.io`.
+I’m also passionate about filling gaps within Microsoft's modern device management stack with complex and resilient solutions developed in PowerShell. Using Azure DevOps, I've developed and delivered highly customizable and maintainable solutions to allow the management of existing infrastructure, such as network file shares and local printers, while promoting change management and building automation tailored to the clients needs. 
 
-* **You want a project website**
+I'm seeking to continue doing what I love - diving deeper into process automation within the end user space. I also want to expand my field of expertise and further cement my position as a trusted, valuable and respected resource within the global IT community.
 
-  In this case your website's URL will be `http://<your username>.github.io/<whatever you want>` where `<whatever you want>` can be any valid name for a Github repository.
+## Hard Skills
 
-  Go in the `Settings` page of your repository and rename it to `<whatever you want>`.
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 39%;" aria-valuenow="39" aria-valuemin="0" aria-valuemax="100"></div>
+</div><p> </p>
 
-### Activate Github Pages on your repository
+Azure, Azure Automation & Functions, Azure DevOps, Git, Hyper-V, Intune, Kusto, Lighttpd, MEMCM, Microsoft Graph, Modern Device Management, NGINX, Node.js, Power Automate, PowerBI, PowerShell, Shell \ Bash scripting, Typescript, VMWare ESXi, WQL.
 
-Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
+## Experience
 
-### That's it
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 52%;" aria-valuenow="52" aria-valuemin="0" aria-valuemax="100"></div>
+</div><p> </p>
 
-Your Github Pages website with customizable Bootstrap 4 is now up and running, you can access it using the URL displayed by Github in the `Github Pages` settings.
+### Senior End User Compute Engineer
 
-## Customization Guide
+<div>
+    <h4 class="text-muted" style="float: left">
+    Vigilant IT
+    </h4> 
+    <p style="float:right"> 
+        <span class="badge badge-secondary">Dec-2017 - Present</span>
+    </p>
+</div>
+<div style="clear: both"> </div>
 
-### Modify the configuration
+- Senior resource in the "end user compute" project team.
+- Process automation and cloud solution architecture.
+- Application packaging.
 
-You should at least edit the `_config.yml` file to edit your website's metadata, like the title, description and repository URL.
+##### Achievements
 
-### Change your theme
+- Successfully completed 6 Modern Workplace migration projects, moving clients from a variety of industries away from on-premise domain joined device management and into the Microsoft cloud-based management space, utilizing the full Microsoft MDM stack including Intune, MDATP, MCAS, Windows Hello For Business, OneDrive etc.
+- Development of "Industry Leading" solutions to allow clients to move to cloud-based endpoint management faster than anticipated, while still providing support for existing on-premise software and infrastructure. Some examples include:
 
-This website uses the [Minty](https://bootswatch.com/minty/) Bootstrap theme by default. And you don't want to use the same theme everyone else uses do you?
+  - The ability to deploy and install complex applications via Intune before Win32 applications were available. The solution involved a bespoke (but standardized) PowerShell installation wrapper which would pull installation media from Azure storage containers.
+  - On-premise drive and printer mapping to allow existing infrastructure to remain while the rest of the end user space moved to the cloud. Written entirely in PowerShell, the solution used Azure Functions and Microsoft Graph to allow RBAC drive & printer allocation to all staff members exactly as they are used to with previous Group Policy configurations.
+  - The development of CI/CD pipelines to allow handover of the day to day changes involved with existing infrastructure. Complex build testing allows inexperienced staff to make changes to drive mappings and printer queues without risking critical incidents.
+<p></p>
+- Development of a simplified programmatic process workflow to allow complex application installs to be developed and tested rapidly by staff. Moving away from the Azure GUI and leveraging PowerShell, we can now use VS Code tasks or Azure DevOps pipelines to develop, test and deploy complex applications, with rigorous testing and vetting before application packages end up on clients Intune tenants.
+- Development of an "Intune baseline deployment" solution, allowing us to turn aspects of Intune configuration into "products" that clients can pick from to build out their environment quickly and reliably. Template driven tenant provisioning has allowed us to drastically increase the resiliency of our solutions as well as allowing significant "code reuse" allowing for us to not spend as much time on the same piece of work for each client.
+- Development of a solution to extract and store historical backup data from a variety of backup solutions (Backup Exec, DPM etc). Using PowerShell and SQL and a custom PowerBI dashboard, we now have not only real-time visibility of our backup stats, but also deep historical information that previously was unavailable to the company.
+- Development of a customized "Name-Picker" solution for a large health organization allowing IT resources to allocate and correctly name devices during the SCCM Task-Sequence allowed for reliable location based deployment of hardware.
 
-You can of course modify anything in the `_includes`, `_layouts` and `_sass` folders to customize both the HTML or CSS of your website, possibly referring to the [Bootstrap documentation](https://getbootstrap.com/) or the [Jekyll documentation](https://jekyllrb.com/) when needed. This is a normal part of web development and it is outside the scope of this guide.
+<div class="border-top my-3"></div>
 
-But if you don't know where to start I can recommend you to import a theme from [Bootswatch](https://bootswatch.com/).
+### 2nd Level Desktop Support
 
-* Go on [Bootswatch](https://bootswatch.com/) and choose a theme that you like.
-* Using the top bar, download its `_variables.scss` and `_bootswatch.scss` files.
-* Copy the content of `_variables.scss` in `_sass/_variables.scss`.
-* Copy the content of `_bootswatch.scss` in `_sass/_bootstrap_customization.scss`.
+<div>
+    <h4 class="text-muted" style="float: left">
+    TAL
+    </h4>
+    <p style="float:right">
+    <span class="badge badge-secondary">
+        Feb-2014 - Feb-2017
+    </span>    
+    </p>
+</div>
+<div style="clear: both"> </div>
 
-That's it, you now have a totally different appearance for you website.
+- Senior desktop support specialist.
+- BAU support, SCCM administration and application packaging.
 
-### Modify the content
+##### Achievements
 
-You probably don't want the present guide to be the front page of your website, so you should edit the `index.md` file. You probably also want to edit or delete the `CONTRIBUTING.md`, `README.md` and `LICENSE.md` files.
+- Developed and deployed a solution to remove display drivers that were incompatible with "all in one" docking monitors which were provided as a warranty replacement from a leading hardware vendor. With the existing drivers installed, the new monitors were inoperable. My scripted solution removed the drivers silently and handled a large variety of driver versions, computer models and operating system architectures with 100% success rate.
+- Development of solution to allow IT department to have better visibility of the various database connections an in-house application was configured to use on end user devices (PROD / PRE-PROD / DEV). With this information available, the monthly deployments of the in-house core application greatly increased in success and accuracy allowing further automation of the monthly deployment process within the company.
+- Automation of the packaging process of the core system applications that were deployed on a monthly basis. Developed entirely with PowerShell, I cut the packaging process down from 1 hour to a 10 minute process that could be completed by junior staff with senior staff required to simply approve the package.
+- Development of a solution to allow the location of staff in a flexible working environment using nothing but SCCM, PowerShell and a SQL database. When a user connected to an "all in one" docking monitor, the serial number of the monitor which was tied to a desk number was flagged and stored in a database. A simple UI was created to view staff locations which allowed for greater staff visibility and desk availability.
 
-Aside from that you can of course create new pages and posts like with any Jekyll website by refering to the [Jekyll documentation](https://jekyllrb.com/).
+<div class="border-top my-3"></div>
 
-### Run Jekyll on your computer to speed up testing
+### Desktop Refresh Lead
 
-Editing your website's content or theme directly on Github is completely possible but, due to the time Github Pages takes to update your website, it will probably be much more effective to work using a local Jekyll installation.
+<div>
+  <h4 class="text-muted" style="float: left">
+  Energy Australia
+  </h4>
+  <p style="float:right"> 
+  <span class="badge badge-secondary">
+      2011 - 2014
+  </span>    
+  </p>
+</div>
+<div style="clear: both"> </div>
 
-To do so:
+- Contract position leading the desktop refresh project (rolling refresh of ~2500 devices).
+- Supplemental role as senior desktop support for CBD locations.
+  
+##### Achievements
 
-* Install the [requirements for Jekyll](https://jekyllrb.com/docs/installation/).
-* Type `bundle install` at the root of your project to install the necessary Ruby dependencies.
-* Type `bundle exec jekyll serve` to launch the test Jekyll web server that will re-compile your work if you edit it.
-* You can then open `http://localhost:4000` in your web browser to see your work-in-progress website.
+- 100% refresh targets met (~850 devices per year). Locations included corporate offices and contact centers.
+- Developed software to assist myself and my team with refresh duties. The software allowed us to:
+  - Automate the software auditing of devices, using PowerShell to query SCCM.
+  - Obtain real-time information on the current user and location of the device.
+  - Automate appointment setting with customizable email templates.
+  - Automate the backup of user profiles remotely and silently, greatly improving our start-to-handover refresh workflow.
+- Developed a front end application to allow all Desktop support and management to obtain real-time info on the existing end user desktop fleet.
 
-Please note that, to ensure maximum compatibility with Github Pages, the `Gemfile` of this project references the `github-pages` gem, not Jekyll directly. This implies some differences in behavior compared to the official documentation of Jekyll.
+## Exams Passed
 
-## Known issues
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 65%;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+</div><p> </p>
 
-* Bootstrap 4 should normally be post-processed using [Autoprefixer](https://github.com/postcss/autoprefixer). Even if it is possible to use autoprefixer with Jekyll, it is not possible with a classic Github Pages installation without adding some kind of pre-processing before publication. Since this project mostly aims compatibility with Github Pages I prefer to keep it that way. The consequences of this choice is that some Bootstrap features could not work as expected on older browsers.
+<div class="row">
+  <div class="col-lg-5">
+    <div class="card border-secondary mb-3" style="text-align: center">
+      <div class="card-header"><h5 class="card-title">MD-100 Windows 10 </h5>
+      <p class="card-text">Achievement Date: December 16, 2019</p>
+      </div>
+      <div class="card-body" style>
+        <img src="assets\img\exam-md100-600x600.png" width="200" height="200">
+        </div>
+    </div>
+  </div>
+  <div class="col-lg-5">
+    <div class="card border-secondary mb-3" style="text-align: center">
+      <div class="card-header"><h5 class="card-title">MD-101 Managing Modern Desktops</h5>
+      <p class="card-text">Achievement Date: January 17, 2020</p>
+      </div>
+      <div class="card-body" style>
+        <img src="assets\img\exam-md101-600x600.png" width="200" height="200">
+        </div>
+    </div>
+  </div>
+</div>
 
-## How to contribute
+## Certifications
 
-Like this project ? [Consider adding a star on Github](https://github.com/nicolas-van/bootstrap-4-github-pages).
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 78%;" aria-valuenow="78" aria-valuemin="0" aria-valuemax="100"></div>
+</div><p> </p>
 
-[You can also see the contribution guide](https://github.com/nicolas-van/bootstrap-4-github-pages/blob/master/CONTRIBUTING.md).
+<div class="col-lg-5">
+  <div class="card border-secondary mb-3" style="text-align: center">
+    <div class="card-header"><h5 class="card-title">Microsoft 365 Certified: Modern Desktop Administrator Associate</h5>
+      <p class="card-text">Achievement Date: January 17, 2020</p>
+      <p class="card-text">Expiry Date: January 18, 2022</p>
+    </div>
+    <div class="card-body" style>
+      <img src="assets\img\microsoft365-modern-desktop-administrator-associate-600x600.png" width="200" height="200">
+      </div>
+  </div>
+</div>
 
-## Websites using Bootstrap 4 Github Pages
+## Courses
 
-* [My personal blog](https://nicolas-van.github.io/)
-* [the wavelet's profile](https://thewavelet.github.io/)
-* [roseblood.github.io](https://roseleblood.github.io/)
-* [colemannick.github.io](https://colemannick.github.io/)
-* [Betty and the Blushtones](http://bettyandtheblushtones.co.uk/)
-* [borislouis.github.io](https://borislouis.github.io/)
-* [dariusnwadike.github.io](https://dariusnwadike.github.io/)
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 91%;" aria-valuenow="91" aria-valuemin="0" aria-valuemax="100"></div>
+</div><p> </p>
 
-## Other Github Pages related projects
+* Azure Infrastructure and Architecture Course (2017)
+* UEM + Security CxE Global Training: Fundamentals (2019)
+* Azure Sentinel Technical Training (2019)
+* M365 Security Bootcamp (MS-500 Exam prep / deep-dive) (2020)
 
-I'm a fan of Github Pages for the possibilities it offers to anyone to publish a website for free. I have multiple projects that could be of interest if that's your case too:
+## Community Involvement
 
-* [Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
-* [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate)
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+</div><p> </p>
 
+### PSConf Asia (2018)
+
+Attended PSConf Asia as a speaker where I presented a talk on deploying complex applications to Intune using PowerShell, Storage Accounts and Graph.
+
+### PSConf Europe (2019)
+
+Attended PSConf Europe as a speaker where I presented two talks:
+
+- Automate your application packaging for Intune | https://www.youtube.com/watch?v=Q2bHbKp5qOQ
+- Intune Programmatically: Provision Intune environment using Plaster, Azure | https://www.youtube.com/watch?v=aB11zmyG2Ds
+
+### Intune.Training
+
+Regular guest contributor to the YouTube training site "Intune.Training", where I generally present on more advanced automation concepts.
+- [Automating the Syncing of SharePoint Team Site Libraries | https://www.youtube.com/watch?v=Zoac9lbUuG0](https://www.youtube.com/watch?v=Zoac9lbUuG0)
+- [Build Win32 apps Using PowerShell, VSCode Tasks & Intune Graph | https://www.youtube.com/watch?v=gGgj8AALrgQ](https://www.youtube.com/watch?v=gGgj8AALrgQ)
+- [Intune PowerShell Scripts - Re-Running Failed Scripts | https://www.youtube.com/watch?v=LLgVGLSrH28](https://www.youtube.com/watch?v=LLgVGLSrH28)
+
+### Powers Hell Blog
+
+[Powers Hell (www.powers-hell.com)](https://powers-hell.com) is my personal educational tech blog dedicated to documenting knowledge learned "on the job". Always centrally themed around PowerShell, the site covers how using PowerShell can make your job easier, more efficient and more fun.
