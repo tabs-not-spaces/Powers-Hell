@@ -5,7 +5,7 @@
 Solutions Engineer - Process and Solutions Automation
 
 <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 13%;" aria-valuenow="13" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar" role="progressbar" style="width: 12%;" aria-valuenow="12" aria-valuemin="0" aria-valuemax="100"></div>
 </div><p> </p>
 
 | | |
@@ -20,7 +20,7 @@ Solutions Engineer - Process and Solutions Automation
 ## Summary
 
 <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 26%;" aria-valuenow="26" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar" role="progressbar" style="width: 24%;" aria-valuenow="24" aria-valuemin="0" aria-valuemax="100"></div>
 </div><p> </p>
 
 I’m an IT professional with over 10 years of experience providing solutions delivery, support and automation across a wide range of industries. 
@@ -34,7 +34,7 @@ I'm seeking to continue doing what I love - diving deeper into process automatio
 ## Hard Skills
 
 <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 39%;" aria-valuenow="39" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar" role="progressbar" style="width: 26%;" aria-valuenow="26" aria-valuemin="0" aria-valuemax="100"></div>
 </div><p> </p>
 
 Azure, Azure Automation & Functions, Azure DevOps, Git, Hyper-V, Intune, Kusto, Lighttpd, MEMCM, Microsoft Graph, Modern Device Management, NGINX, Node.js, Power Automate, PowerBI, PowerShell, Shell \ Bash scripting, Typescript, VMWare ESXi, WQL.
@@ -42,7 +42,7 @@ Azure, Azure Automation & Functions, Azure DevOps, Git, Hyper-V, Intune, Kusto, 
 ## Experience
 
 <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 52%;" aria-valuenow="52" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar" role="progressbar" style="width: 48%;" aria-valuenow="48" aria-valuemin="0" aria-valuemax="100"></div>
 </div><p> </p>
 
 ### Senior End User Compute Engineer
@@ -133,7 +133,7 @@ Azure, Azure Automation & Functions, Azure DevOps, Git, Hyper-V, Intune, Kusto, 
 ## Exams Passed
 
 <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 65%;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
 </div><p> </p>
 
 <div class="row">
@@ -162,7 +162,7 @@ Azure, Azure Automation & Functions, Azure DevOps, Git, Hyper-V, Intune, Kusto, 
 ## Certifications
 
 <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 78%;" aria-valuenow="78" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar" role="progressbar" style="width: 72%;" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
 </div><p> </p>
 
 <div class="col-lg-5">
@@ -180,7 +180,7 @@ Azure, Azure Automation & Functions, Azure DevOps, Git, Hyper-V, Intune, Kusto, 
 ## Courses
 
 <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 91%;" aria-valuenow="91" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar" role="progressbar" style="width: 84%;" aria-valuenow="84" aria-valuemin="0" aria-valuemax="100"></div>
 </div><p> </p>
 
 * Azure Infrastructure and Architecture Course (2017)
@@ -191,7 +191,7 @@ Azure, Azure Automation & Functions, Azure DevOps, Git, Hyper-V, Intune, Kusto, 
 ## Community Involvement
 
 <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar" role="progressbar" style="width: 96%;" aria-valuenow="96" aria-valuemin="0" aria-valuemax="100"></div>
 </div><p> </p>
 
 ### PSConf Asia (2018)
@@ -215,3 +215,7 @@ Regular guest contributor to the YouTube training site "Intune.Training", where 
 ### Powers Hell Blog
 
 [Powers Hell (www.powers-hell.com)](https://powers-hell.com) is my personal educational tech blog dedicated to documenting knowledge learned "on the job". Always centrally themed around PowerShell, the site covers how using PowerShell can make your job easier, more efficient and more fun.
+
+<div class="progress">
+    <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+  </div><p> </p>

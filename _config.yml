@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ben Reader's CV
-email: "ben.reader@gmail.com"
+#email: "ben.reader@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   A Bootstrap 4 project that makes me look exciting and employable.
 #baseurl: "" # the subpath of your site, e.g. /blog
