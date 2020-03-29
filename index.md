@@ -11,9 +11,9 @@ Solutions Engineer - Process and Solutions Automation
 | | |
 |:--- | :--- |
 | <i class="fa fa-envelope"></i> Email: | <font class="text-success">ben.reader(a)gmail.com</font> |
-| <i class="fa fa-github"></i> GitHub: | [https://github.com/tabs-not-spaces](https://github.com/tabs-not-spaces) |
-| <i class="fa fa-twitter"></i> Twitter: | [https://twitter.com/powers_hell](https://twitter.com/powers_hell) |
-| <i class="fa fa-linkedin-square"></i> LinkedIn: | [https://linkedin.com/in/ben-reader](https://www.linkedin.com/in/ben-reader-97223b7b) |
+| <i class="fa fa-github"></i> GitHub: | [https://github.com/tabs-not-spaces](https://github.com/tabs-not-spaces "GitHub") |
+| <i class="fa fa-twitter"></i> Twitter: | [https://twitter.com/powers_hell](https://twitter.com/powers_hell "Twitter") |
+| <i class="fa fa-linkedin-square"></i> LinkedIn: | [https://linkedin.com/in/ben-reader](https://www.linkedin.com/in/ben-reader-97223b7b "LinkedIn") |
 
 <p></p>
 
