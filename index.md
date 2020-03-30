@@ -52,7 +52,7 @@ Azure, Azure Automation & Functions, Azure DevOps, Git, Hyper-V, Intune, Kusto, 
     Vigilant IT
     </h4> 
     <p style="float:right"> 
-        <span class="badge badge-secondary">Dec-2017 - Present</span>
+        <span class="badge badge-secondary">Mar-2017 - Present</span>
     </p>
 </div>
 <div style="clear: both"> </div>
