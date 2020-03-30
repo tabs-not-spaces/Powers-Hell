@@ -202,19 +202,19 @@ Attended PSConf Asia as a speaker where I presented a talk on deploying complex 
 
 Attended PSConf Europe as a speaker where I presented two talks:
 
-- Automate your application packaging for Intune | https://www.youtube.com/watch?v=Q2bHbKp5qOQ
-- Intune Programmatically: Provision Intune environment using Plaster, Azure | https://www.youtube.com/watch?v=aB11zmyG2Ds
+- [Automate your application packaging for Intune - https://www.youtube.com/watch?v=Q2bHbKp5qOQ](https://www.youtube.com/watch?v=Q2bHbKp5qOQ)
+- [Intune Programmatically: Provision Intune environment using Plaster, Azure - https://www.youtube.com/watch?v=aB11zmyG2Ds](https://www.youtube.com/watch?v=aB11zmyG2Ds)
 
 ### Intune.Training
 
 Regular guest contributor to the YouTube training site "Intune.Training", where I generally present on more advanced automation concepts.
-- [Automating the Syncing of SharePoint Team Site Libraries | https://www.youtube.com/watch?v=Zoac9lbUuG0](https://www.youtube.com/watch?v=Zoac9lbUuG0)
-- [Build Win32 apps Using PowerShell, VSCode Tasks & Intune Graph | https://www.youtube.com/watch?v=gGgj8AALrgQ](https://www.youtube.com/watch?v=gGgj8AALrgQ)
-- [Intune PowerShell Scripts - Re-Running Failed Scripts | https://www.youtube.com/watch?v=LLgVGLSrH28](https://www.youtube.com/watch?v=LLgVGLSrH28)
+- [Automating the Syncing of SharePoint Team Site Libraries -  https://www.youtube.com/watch?v=Zoac9lbUuG0](https://www.youtube.com/watch?v=Zoac9lbUuG0)
+- [Build Win32 apps Using PowerShell, VSCode Tasks & Intune Graph - https://www.youtube.com/watch?v=gGgj8AALrgQ](https://www.youtube.com/watch?v=gGgj8AALrgQ)
+- [Intune PowerShell Scripts - Re-Running Failed Scripts - https://www.youtube.com/watch?v=LLgVGLSrH28](https://www.youtube.com/watch?v=LLgVGLSrH28)
 
 ### Powers Hell Blog
 
-[Powers Hell (www.powers-hell.com)](https://powers-hell.com) is my personal educational tech blog dedicated to documenting knowledge learned "on the job". Always centrally themed around PowerShell, the site covers how using PowerShell can make your job easier, more efficient and more fun.
+[Powers-hell.com](https://powers-hell.com) is my personal educational tech blog dedicated to documenting knowledge learned "on the job". Always centrally themed around PowerShell, the site covers how using PowerShell can make your job easier, more efficient and more fun.
 
 <div class="progress">
     <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
